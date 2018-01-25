@@ -1,0 +1,11 @@
+
+DOKUMENTASI LIBRARY " BKD_LIB_SKS_RULE "
+
+1. FUNGSI _NILAI_SKS(NILAI, API_KODE, API_SUBKODE, SKS)
+	1. TERDAPAT 4 PARAMETER PADA FUNGSI INI :
+		a.) NILAI 	 	= Merupakan nilai yang akan digunakan untuk pembanding dengan rule yang ada ( pembanding dengan batas nilai pada rule)
+		b.) API_KODE 	= Kode untuk Merujuk pada Kategori Tertentu (Mengajar, Membimbing, etc)
+		c.) API_SUBKODE	= Subkode dari API_KODE
+		d.) SKS			= Merupakan nilai yang akan di operasikan dengan nilai yang didapat dari rule,
+						  default untuk SKS adalah null, karena sebagian data tidak membutuhkan perkalian
+						  dan jika data membutuhkan perkalian bisa langsung di deklarasi dengan nilai parameter NILAI

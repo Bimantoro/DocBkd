@@ -1,0 +1,118 @@
+DOKUMENTASI MEMANGGIL SKS RULE (RETURN VALUE MERUPAKAN SKS PENUGASAN)
+DOKUMENTASI PEMANGGILAN API [API_KODE DAN API_SUBKODE] :
+
+=====================================================================
+A. 1000 --> Mengajar Matakuliah 
+	1 	= S1 
+	2 	= S2
+	3 	= S3
+	
+=====================================================================	
+B. 1001 --> Membimbing
+	1 	= Seminar Proposal
+	2 	= Skripsi
+	3 	= Tesis
+	4 	= Disertasi
+	5 	= Praktek Lapangan
+	6 	= Praktek Klinik
+	7 	= KKN (Menjadi DPL)
+	8 	= Dosen yang Lebih Rendah Jabatannya
+	
+=====================================================================	
+C. 1002 --> Bidang Pendidikan
+	1  	= Mengembangkan Program Perkuliahan / Pengajaran
+	2  	= Melaksanakan Kegiatan Datasering dan Pencangkokan Dosen
+	
+=====================================================================
+D. 1003 --> Menguji
+	1  	= Seminar Proposal
+	2  	= Skripsi
+	3  	= Tesis
+	4  	= Disertasi
+	
+=====================================================================
+E. 1004 --> Penelitian
+	1  	= Ketua Penelitian Kelompok
+	2  	= Anggota Penelitian Kelompok
+	3  	= Ketua Penelitian Mandiri
+	4  	= Menulis Naskah Buku Ber ISBN
+	5  	= Editor Buku
+	6 	= Kontributor Buku
+	7  	= Menulis Modul / Diktat / Bahan Ajar
+	8  	= Menulsis Naskah Buku Internasional
+	9  	= Penerjemah Buku Mandiri / Tanpa Anggota
+	10 	= Ketua / Editor Penerjemah Buku
+	11 	= Anggota Penerjemah Buku
+	12 	= Penyunting Naskah Buku Mandiri / Tanpa Anggota
+	13 	= Ketua / Editor Penyunting Naskah Buku
+	14 	= Anggota Penyuntin Naskah Buku
+	15 	= Ijin Belajar
+	16 	= Asesor Beban Kerja Dosen dan Evaluasi Pelaksanaan Tridharma Perguruan Tinggi
+	17 	= Menulis di Media Massa
+
+=====================================================================
+F. 1005 --> Menulis Jurnal Ilmiah
+	1	= Diterbitkan oleh Jurnal ilmiah/majalah ilmiah ber- ISSN tidak terakreditasi
+	2	= Diterbitkan oleh Jurnal terakreditasi
+	3	= Diterbitkan oleh Jurnal terakreditasi internasional (dalam bahasa intenasional)
+	
+=====================================================================
+G. 1006 --> Memperoleh Hak Paten
+	1	= Proses pengurusan paten sederhana
+	2	= Proses pengurusan paten Biasa
+	3 	= Proses pengurusan paten Internasional (minimal 3 negara)
+	
+=====================================================================
+H. 1007 --> Menyampaikan Orasi Ilmiah, Pembicara Seminar, Narasumber
+	1	= Tingkat regional daerah, institusional (minimum fakultas)
+	2	= Tingkat Tingkat nasional
+	3	= Tingkat internasional (dengan bahasa internasional)
+
+=====================================================================
+I. 1008 --> Pengabdian masyarakat
+	1	= Satu kegiatan yang setara dengan 50 jam kerja per semester
+	2	= Menulis karya pengabdian yang dipakai sebagai Modul/Bahan Ajar oleh seorang Dosen
+	3	= Penyuluhan kepada masyarakat
+	4 	= Memberi kursus/menatar pada masyarakat
+
+=====================================================================
+J. 1009 --> Membuat/Menulis Karya Pengabdian Kepada Masyarakat
+	1	= Menulis 1 judul, direncanakan terbit ber ISBN, ada kontrak penerbitan dan atau sudah diterbitkan dan ber – ISBN ( Mandiri )
+	2	= Editor 1 Judul
+	3	= Kontributor tiap Chapter dalam 1 Judul
+	
+=====================================================================
+J. 1010 --> Pembinaan Sivitas Akademika
+	1	= Bimbingan Akademik (Perwalian / Penasehat Akademik)
+	2	= Bimbingan Konseling
+	3	= Pimpinan Pembinaan Unit Kegiatan Mahasiswa
+	4	= Pimpinan Organisasi Sosial Intern SEbagai Ketua / Wakil Ketua
+	
+=====================================================================
+K. 1011	--> Administrasi dan Manajemen
+	1	= Dekan
+	2	= Wakil Dekan
+	3	= Ketua Program Studi
+	4	= Sekretaris Program Studi
+	5	= Ketua / Sekretaris senat Universitas/Fakultas
+	6	= Anggota senat Universitas/Fakultas
+	7	= Ketua Redaksi Jurnal ber ISSN
+	8	= Anggota Redaksi Jurnal ber ISSN
+	9	= Ketua Panitia Ad Hoc
+	10	= Anggota Panitia Ad Hoc
+	
+=====================================================================
+L. 1012	--> Ketua Panitita Tetap
+	1	= Tingkat Universitas
+	2	= Tingkat Fakultas
+	3	= Tingkat Prodi
+	
+=====================================================================
+M. 1013	--> Anggota Panitia Tetap
+	1	= Tingkat Universitas
+	2	= Tingkat Fakultas
+	3	= Tingkat Prodi
+
+=====================================================================
+N. 1014	--> Pelaksanaan Tugas Penunjang Peserta
+	1	= Seminar/workshop/kursus berdasarkan penugasan pimpinan
