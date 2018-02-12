@@ -90,16 +90,19 @@ J. 1010 --> Pembinaan Sivitas Akademika
 	
 =====================================================================
 K. 1011	--> Administrasi dan Manajemen
-	1	= Dekan
-	2	= Wakil Dekan
-	3	= Ketua Program Studi
-	4	= Sekretaris Program Studi
-	5	= Ketua / Sekretaris senat Universitas/Fakultas
-	6	= Anggota senat Universitas/Fakultas
-	7	= Ketua Redaksi Jurnal ber ISSN
-	8	= Anggota Redaksi Jurnal ber ISSN
-	9	= Ketua Panitia Ad Hoc
-	10	= Anggota Panitia Ad Hoc
+	1	= Rektor
+	2	= Wakil Rektor, Dekan, Direktur Pascasarjana
+	3	= Wakil Dekan
+	4	= Ketua Lembaga/UPT/SPI
+	5	= Ketua Program Studi
+	6	= Sekretaris Program Studi / Sekretaris Lembaga
+	7	= Kepala Pusat pada Lembaga
+	8	= Ketua/Sekretaris Senat Universitas/Fakultas
+	9	= Anggota Senat Universitas/Fakultas
+	10	= Ketua Redaksi Jurnal ber-ISSN
+	11 	= Anggota Redaksi Jurnal ber-ISSN
+	12 	= Ketua Panitia Ad Hoc
+	13	= Anggota Panitia Ad Hoc
 	
 =====================================================================
 L. 1012	--> Ketua Panitita Tetap
